@@ -1,0 +1,15 @@
+﻿{
+    "unicodeVersion":  "17.0.0",
+    "totalSourceLines":  40575,
+    "totalExpandedCharacters":  297334,
+    "totalBlocks":  346,
+    "activeBlockCount":  326,
+    "largeBlockCount":  17,
+    "emptyBlockCount":  3,
+    "noBlockCharacterCount":  0,
+    "activeCharacterCount":  35178,
+    "largeBlockCharacterCount":  262156,
+    "skippedSurrogateCount":  2048,
+    "largeBlockThreshold":  1000,
+    "generatedAt":  "2026-07-22T17:35:25.4140402Z"
+}

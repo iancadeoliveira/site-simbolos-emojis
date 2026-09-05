@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unicode Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="app-header">
+        <div class="app-header__title">
+            <h1>Unicode Explorer</h1>
+            <p id="summary" class="summary">Loading Unicode data...</p>
+        </div>
+
+        <label class="search">
+            <span class="visually-hidden">Search Unicode characters</span>
+            <input
+                id="search"
+                type="search"
+                autocomplete="off"
+                placeholder="Search character, name, code, or block"
+            >
+        </label>
+    </header>
+
+    <nav class="block-nav" aria-label="Unicode block navigation">
+        <div id="blockNav" class="block-nav__list"></div>
+    </nav>
+
+    <main class="app-shell">
+        <div id="error" class="error-message" hidden></div>
+        <div id="blocks" class="block-list"></div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>

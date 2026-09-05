@@ -1,0 +1,2770 @@
+﻿[
+    {
+        "name":  "Basic Latin",
+        "startCodePoint":  "U+0000",
+        "endCodePoint":  "U+007F",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin-1 Supplement",
+        "startCodePoint":  "U+0080",
+        "endCodePoint":  "U+00FF",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended-A",
+        "startCodePoint":  "U+0100",
+        "endCodePoint":  "U+017F",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended-B",
+        "startCodePoint":  "U+0180",
+        "endCodePoint":  "U+024F",
+        "characterCount":  208,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "IPA Extensions",
+        "startCodePoint":  "U+0250",
+        "endCodePoint":  "U+02AF",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Spacing Modifier Letters",
+        "startCodePoint":  "U+02B0",
+        "endCodePoint":  "U+02FF",
+        "characterCount":  80,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Combining Diacritical Marks",
+        "startCodePoint":  "U+0300",
+        "endCodePoint":  "U+036F",
+        "characterCount":  112,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Greek and Coptic",
+        "startCodePoint":  "U+0370",
+        "endCodePoint":  "U+03FF",
+        "characterCount":  135,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cyrillic",
+        "startCodePoint":  "U+0400",
+        "endCodePoint":  "U+04FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cyrillic Supplement",
+        "startCodePoint":  "U+0500",
+        "endCodePoint":  "U+052F",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Armenian",
+        "startCodePoint":  "U+0530",
+        "endCodePoint":  "U+058F",
+        "characterCount":  91,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hebrew",
+        "startCodePoint":  "U+0590",
+        "endCodePoint":  "U+05FF",
+        "characterCount":  88,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic",
+        "startCodePoint":  "U+0600",
+        "endCodePoint":  "U+06FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Syriac",
+        "startCodePoint":  "U+0700",
+        "endCodePoint":  "U+074F",
+        "characterCount":  77,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic Supplement",
+        "startCodePoint":  "U+0750",
+        "endCodePoint":  "U+077F",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Thaana",
+        "startCodePoint":  "U+0780",
+        "endCodePoint":  "U+07BF",
+        "characterCount":  50,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "NKo",
+        "startCodePoint":  "U+07C0",
+        "endCodePoint":  "U+07FF",
+        "characterCount":  62,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Samaritan",
+        "startCodePoint":  "U+0800",
+        "endCodePoint":  "U+083F",
+        "characterCount":  61,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mandaic",
+        "startCodePoint":  "U+0840",
+        "endCodePoint":  "U+085F",
+        "characterCount":  29,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Syriac Supplement",
+        "startCodePoint":  "U+0860",
+        "endCodePoint":  "U+086F",
+        "characterCount":  11,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic Extended-B",
+        "startCodePoint":  "U+0870",
+        "endCodePoint":  "U+089F",
+        "characterCount":  43,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic Extended-A",
+        "startCodePoint":  "U+08A0",
+        "endCodePoint":  "U+08FF",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Devanagari",
+        "startCodePoint":  "U+0900",
+        "endCodePoint":  "U+097F",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Bengali",
+        "startCodePoint":  "U+0980",
+        "endCodePoint":  "U+09FF",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Gurmukhi",
+        "startCodePoint":  "U+0A00",
+        "endCodePoint":  "U+0A7F",
+        "characterCount":  80,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Gujarati",
+        "startCodePoint":  "U+0A80",
+        "endCodePoint":  "U+0AFF",
+        "characterCount":  91,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Oriya",
+        "startCodePoint":  "U+0B00",
+        "endCodePoint":  "U+0B7F",
+        "characterCount":  91,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tamil",
+        "startCodePoint":  "U+0B80",
+        "endCodePoint":  "U+0BFF",
+        "characterCount":  72,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Telugu",
+        "startCodePoint":  "U+0C00",
+        "endCodePoint":  "U+0C7F",
+        "characterCount":  101,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kannada",
+        "startCodePoint":  "U+0C80",
+        "endCodePoint":  "U+0CFF",
+        "characterCount":  92,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Malayalam",
+        "startCodePoint":  "U+0D00",
+        "endCodePoint":  "U+0D7F",
+        "characterCount":  118,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sinhala",
+        "startCodePoint":  "U+0D80",
+        "endCodePoint":  "U+0DFF",
+        "characterCount":  91,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Thai",
+        "startCodePoint":  "U+0E00",
+        "endCodePoint":  "U+0E7F",
+        "characterCount":  87,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Lao",
+        "startCodePoint":  "U+0E80",
+        "endCodePoint":  "U+0EFF",
+        "characterCount":  83,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tibetan",
+        "startCodePoint":  "U+0F00",
+        "endCodePoint":  "U+0FFF",
+        "characterCount":  211,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Myanmar",
+        "startCodePoint":  "U+1000",
+        "endCodePoint":  "U+109F",
+        "characterCount":  160,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Georgian",
+        "startCodePoint":  "U+10A0",
+        "endCodePoint":  "U+10FF",
+        "characterCount":  88,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hangul Jamo",
+        "startCodePoint":  "U+1100",
+        "endCodePoint":  "U+11FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ethiopic",
+        "startCodePoint":  "U+1200",
+        "endCodePoint":  "U+137F",
+        "characterCount":  358,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ethiopic Supplement",
+        "startCodePoint":  "U+1380",
+        "endCodePoint":  "U+139F",
+        "characterCount":  26,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cherokee",
+        "startCodePoint":  "U+13A0",
+        "endCodePoint":  "U+13FF",
+        "characterCount":  92,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Unified Canadian Aboriginal Syllabics",
+        "startCodePoint":  "U+1400",
+        "endCodePoint":  "U+167F",
+        "characterCount":  640,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ogham",
+        "startCodePoint":  "U+1680",
+        "endCodePoint":  "U+169F",
+        "characterCount":  29,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Runic",
+        "startCodePoint":  "U+16A0",
+        "endCodePoint":  "U+16FF",
+        "characterCount":  89,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tagalog",
+        "startCodePoint":  "U+1700",
+        "endCodePoint":  "U+171F",
+        "characterCount":  23,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hanunoo",
+        "startCodePoint":  "U+1720",
+        "endCodePoint":  "U+173F",
+        "characterCount":  23,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Buhid",
+        "startCodePoint":  "U+1740",
+        "endCodePoint":  "U+175F",
+        "characterCount":  20,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tagbanwa",
+        "startCodePoint":  "U+1760",
+        "endCodePoint":  "U+177F",
+        "characterCount":  18,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Khmer",
+        "startCodePoint":  "U+1780",
+        "endCodePoint":  "U+17FF",
+        "characterCount":  114,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mongolian",
+        "startCodePoint":  "U+1800",
+        "endCodePoint":  "U+18AF",
+        "characterCount":  158,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Unified Canadian Aboriginal Syllabics Extended",
+        "startCodePoint":  "U+18B0",
+        "endCodePoint":  "U+18FF",
+        "characterCount":  70,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Limbu",
+        "startCodePoint":  "U+1900",
+        "endCodePoint":  "U+194F",
+        "characterCount":  68,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tai Le",
+        "startCodePoint":  "U+1950",
+        "endCodePoint":  "U+197F",
+        "characterCount":  35,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "New Tai Lue",
+        "startCodePoint":  "U+1980",
+        "endCodePoint":  "U+19DF",
+        "characterCount":  83,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Khmer Symbols",
+        "startCodePoint":  "U+19E0",
+        "endCodePoint":  "U+19FF",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Buginese",
+        "startCodePoint":  "U+1A00",
+        "endCodePoint":  "U+1A1F",
+        "characterCount":  30,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tai Tham",
+        "startCodePoint":  "U+1A20",
+        "endCodePoint":  "U+1AAF",
+        "characterCount":  127,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Combining Diacritical Marks Extended",
+        "startCodePoint":  "U+1AB0",
+        "endCodePoint":  "U+1AFF",
+        "characterCount":  58,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Balinese",
+        "startCodePoint":  "U+1B00",
+        "endCodePoint":  "U+1B7F",
+        "characterCount":  127,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sundanese",
+        "startCodePoint":  "U+1B80",
+        "endCodePoint":  "U+1BBF",
+        "characterCount":  64,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Batak",
+        "startCodePoint":  "U+1BC0",
+        "endCodePoint":  "U+1BFF",
+        "characterCount":  56,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Lepcha",
+        "startCodePoint":  "U+1C00",
+        "endCodePoint":  "U+1C4F",
+        "characterCount":  74,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ol Chiki",
+        "startCodePoint":  "U+1C50",
+        "endCodePoint":  "U+1C7F",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cyrillic Extended-C",
+        "startCodePoint":  "U+1C80",
+        "endCodePoint":  "U+1C8F",
+        "characterCount":  11,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Georgian Extended",
+        "startCodePoint":  "U+1C90",
+        "endCodePoint":  "U+1CBF",
+        "characterCount":  46,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sundanese Supplement",
+        "startCodePoint":  "U+1CC0",
+        "endCodePoint":  "U+1CCF",
+        "characterCount":  8,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Vedic Extensions",
+        "startCodePoint":  "U+1CD0",
+        "endCodePoint":  "U+1CFF",
+        "characterCount":  43,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Phonetic Extensions",
+        "startCodePoint":  "U+1D00",
+        "endCodePoint":  "U+1D7F",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Phonetic Extensions Supplement",
+        "startCodePoint":  "U+1D80",
+        "endCodePoint":  "U+1DBF",
+        "characterCount":  64,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Combining Diacritical Marks Supplement",
+        "startCodePoint":  "U+1DC0",
+        "endCodePoint":  "U+1DFF",
+        "characterCount":  64,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended Additional",
+        "startCodePoint":  "U+1E00",
+        "endCodePoint":  "U+1EFF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Greek Extended",
+        "startCodePoint":  "U+1F00",
+        "endCodePoint":  "U+1FFF",
+        "characterCount":  233,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "General Punctuation",
+        "startCodePoint":  "U+2000",
+        "endCodePoint":  "U+206F",
+        "characterCount":  111,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Superscripts and Subscripts",
+        "startCodePoint":  "U+2070",
+        "endCodePoint":  "U+209F",
+        "characterCount":  42,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Currency Symbols",
+        "startCodePoint":  "U+20A0",
+        "endCodePoint":  "U+20CF",
+        "characterCount":  34,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Combining Diacritical Marks for Symbols",
+        "startCodePoint":  "U+20D0",
+        "endCodePoint":  "U+20FF",
+        "characterCount":  33,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Letterlike Symbols",
+        "startCodePoint":  "U+2100",
+        "endCodePoint":  "U+214F",
+        "characterCount":  80,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Number Forms",
+        "startCodePoint":  "U+2150",
+        "endCodePoint":  "U+218F",
+        "characterCount":  60,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arrows",
+        "startCodePoint":  "U+2190",
+        "endCodePoint":  "U+21FF",
+        "characterCount":  112,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mathematical Operators",
+        "startCodePoint":  "U+2200",
+        "endCodePoint":  "U+22FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miscellaneous Technical",
+        "startCodePoint":  "U+2300",
+        "endCodePoint":  "U+23FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Control Pictures",
+        "startCodePoint":  "U+2400",
+        "endCodePoint":  "U+243F",
+        "characterCount":  42,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Optical Character Recognition",
+        "startCodePoint":  "U+2440",
+        "endCodePoint":  "U+245F",
+        "characterCount":  11,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Enclosed Alphanumerics",
+        "startCodePoint":  "U+2460",
+        "endCodePoint":  "U+24FF",
+        "characterCount":  160,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Box Drawing",
+        "startCodePoint":  "U+2500",
+        "endCodePoint":  "U+257F",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Block Elements",
+        "startCodePoint":  "U+2580",
+        "endCodePoint":  "U+259F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Geometric Shapes",
+        "startCodePoint":  "U+25A0",
+        "endCodePoint":  "U+25FF",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miscellaneous Symbols",
+        "startCodePoint":  "U+2600",
+        "endCodePoint":  "U+26FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Dingbats",
+        "startCodePoint":  "U+2700",
+        "endCodePoint":  "U+27BF",
+        "characterCount":  192,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miscellaneous Mathematical Symbols-A",
+        "startCodePoint":  "U+27C0",
+        "endCodePoint":  "U+27EF",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Supplemental Arrows-A",
+        "startCodePoint":  "U+27F0",
+        "endCodePoint":  "U+27FF",
+        "characterCount":  16,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Braille Patterns",
+        "startCodePoint":  "U+2800",
+        "endCodePoint":  "U+28FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Supplemental Arrows-B",
+        "startCodePoint":  "U+2900",
+        "endCodePoint":  "U+297F",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miscellaneous Mathematical Symbols-B",
+        "startCodePoint":  "U+2980",
+        "endCodePoint":  "U+29FF",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Supplemental Mathematical Operators",
+        "startCodePoint":  "U+2A00",
+        "endCodePoint":  "U+2AFF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miscellaneous Symbols and Arrows",
+        "startCodePoint":  "U+2B00",
+        "endCodePoint":  "U+2BFF",
+        "characterCount":  254,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Glagolitic",
+        "startCodePoint":  "U+2C00",
+        "endCodePoint":  "U+2C5F",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended-C",
+        "startCodePoint":  "U+2C60",
+        "endCodePoint":  "U+2C7F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Coptic",
+        "startCodePoint":  "U+2C80",
+        "endCodePoint":  "U+2CFF",
+        "characterCount":  123,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Georgian Supplement",
+        "startCodePoint":  "U+2D00",
+        "endCodePoint":  "U+2D2F",
+        "characterCount":  40,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tifinagh",
+        "startCodePoint":  "U+2D30",
+        "endCodePoint":  "U+2D7F",
+        "characterCount":  59,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ethiopic Extended",
+        "startCodePoint":  "U+2D80",
+        "endCodePoint":  "U+2DDF",
+        "characterCount":  79,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cyrillic Extended-A",
+        "startCodePoint":  "U+2DE0",
+        "endCodePoint":  "U+2DFF",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Supplemental Punctuation",
+        "startCodePoint":  "U+2E00",
+        "endCodePoint":  "U+2E7F",
+        "characterCount":  94,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Radicals Supplement",
+        "startCodePoint":  "U+2E80",
+        "endCodePoint":  "U+2EFF",
+        "characterCount":  115,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kangxi Radicals",
+        "startCodePoint":  "U+2F00",
+        "endCodePoint":  "U+2FDF",
+        "characterCount":  214,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ideographic Description Characters",
+        "startCodePoint":  "U+2FF0",
+        "endCodePoint":  "U+2FFF",
+        "characterCount":  16,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Symbols and Punctuation",
+        "startCodePoint":  "U+3000",
+        "endCodePoint":  "U+303F",
+        "characterCount":  64,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hiragana",
+        "startCodePoint":  "U+3040",
+        "endCodePoint":  "U+309F",
+        "characterCount":  93,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Katakana",
+        "startCodePoint":  "U+30A0",
+        "endCodePoint":  "U+30FF",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Bopomofo",
+        "startCodePoint":  "U+3100",
+        "endCodePoint":  "U+312F",
+        "characterCount":  43,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hangul Compatibility Jamo",
+        "startCodePoint":  "U+3130",
+        "endCodePoint":  "U+318F",
+        "characterCount":  94,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kanbun",
+        "startCodePoint":  "U+3190",
+        "endCodePoint":  "U+319F",
+        "characterCount":  16,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Bopomofo Extended",
+        "startCodePoint":  "U+31A0",
+        "endCodePoint":  "U+31BF",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Strokes",
+        "startCodePoint":  "U+31C0",
+        "endCodePoint":  "U+31EF",
+        "characterCount":  39,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Katakana Phonetic Extensions",
+        "startCodePoint":  "U+31F0",
+        "endCodePoint":  "U+31FF",
+        "characterCount":  16,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Enclosed CJK Letters and Months",
+        "startCodePoint":  "U+3200",
+        "endCodePoint":  "U+32FF",
+        "characterCount":  255,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Compatibility",
+        "startCodePoint":  "U+3300",
+        "endCodePoint":  "U+33FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension A",
+        "startCodePoint":  "U+3400",
+        "endCodePoint":  "U+4DBF",
+        "characterCount":  6592,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Yijing Hexagram Symbols",
+        "startCodePoint":  "U+4DC0",
+        "endCodePoint":  "U+4DFF",
+        "characterCount":  64,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Unified Ideographs",
+        "startCodePoint":  "U+4E00",
+        "endCodePoint":  "U+9FFF",
+        "characterCount":  20992,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Yi Syllables",
+        "startCodePoint":  "U+A000",
+        "endCodePoint":  "U+A48F",
+        "characterCount":  1165,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Yi Radicals",
+        "startCodePoint":  "U+A490",
+        "endCodePoint":  "U+A4CF",
+        "characterCount":  55,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Lisu",
+        "startCodePoint":  "U+A4D0",
+        "endCodePoint":  "U+A4FF",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Vai",
+        "startCodePoint":  "U+A500",
+        "endCodePoint":  "U+A63F",
+        "characterCount":  300,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cyrillic Extended-B",
+        "startCodePoint":  "U+A640",
+        "endCodePoint":  "U+A69F",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Bamum",
+        "startCodePoint":  "U+A6A0",
+        "endCodePoint":  "U+A6FF",
+        "characterCount":  88,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Modifier Tone Letters",
+        "startCodePoint":  "U+A700",
+        "endCodePoint":  "U+A71F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended-D",
+        "startCodePoint":  "U+A720",
+        "endCodePoint":  "U+A7FF",
+        "characterCount":  204,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Syloti Nagri",
+        "startCodePoint":  "U+A800",
+        "endCodePoint":  "U+A82F",
+        "characterCount":  45,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Common Indic Number Forms",
+        "startCodePoint":  "U+A830",
+        "endCodePoint":  "U+A83F",
+        "characterCount":  10,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Phags-pa",
+        "startCodePoint":  "U+A840",
+        "endCodePoint":  "U+A87F",
+        "characterCount":  56,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Saurashtra",
+        "startCodePoint":  "U+A880",
+        "endCodePoint":  "U+A8DF",
+        "characterCount":  82,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Devanagari Extended",
+        "startCodePoint":  "U+A8E0",
+        "endCodePoint":  "U+A8FF",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kayah Li",
+        "startCodePoint":  "U+A900",
+        "endCodePoint":  "U+A92F",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Rejang",
+        "startCodePoint":  "U+A930",
+        "endCodePoint":  "U+A95F",
+        "characterCount":  37,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hangul Jamo Extended-A",
+        "startCodePoint":  "U+A960",
+        "endCodePoint":  "U+A97F",
+        "characterCount":  29,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Javanese",
+        "startCodePoint":  "U+A980",
+        "endCodePoint":  "U+A9DF",
+        "characterCount":  91,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Myanmar Extended-B",
+        "startCodePoint":  "U+A9E0",
+        "endCodePoint":  "U+A9FF",
+        "characterCount":  31,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cham",
+        "startCodePoint":  "U+AA00",
+        "endCodePoint":  "U+AA5F",
+        "characterCount":  83,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Myanmar Extended-A",
+        "startCodePoint":  "U+AA60",
+        "endCodePoint":  "U+AA7F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tai Viet",
+        "startCodePoint":  "U+AA80",
+        "endCodePoint":  "U+AADF",
+        "characterCount":  72,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Meetei Mayek Extensions",
+        "startCodePoint":  "U+AAE0",
+        "endCodePoint":  "U+AAFF",
+        "characterCount":  23,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ethiopic Extended-A",
+        "startCodePoint":  "U+AB00",
+        "endCodePoint":  "U+AB2F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended-E",
+        "startCodePoint":  "U+AB30",
+        "endCodePoint":  "U+AB6F",
+        "characterCount":  60,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cherokee Supplement",
+        "startCodePoint":  "U+AB70",
+        "endCodePoint":  "U+ABBF",
+        "characterCount":  80,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Meetei Mayek",
+        "startCodePoint":  "U+ABC0",
+        "endCodePoint":  "U+ABFF",
+        "characterCount":  56,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hangul Syllables",
+        "startCodePoint":  "U+AC00",
+        "endCodePoint":  "U+D7AF",
+        "characterCount":  11172,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Hangul Jamo Extended-B",
+        "startCodePoint":  "U+D7B0",
+        "endCodePoint":  "U+D7FF",
+        "characterCount":  72,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "High Surrogates",
+        "startCodePoint":  "U+D800",
+        "endCodePoint":  "U+DB7F",
+        "characterCount":  0,
+        "status":  "empty",
+        "isVisible":  false
+    },
+    {
+        "name":  "High Private Use Surrogates",
+        "startCodePoint":  "U+DB80",
+        "endCodePoint":  "U+DBFF",
+        "characterCount":  0,
+        "status":  "empty",
+        "isVisible":  false
+    },
+    {
+        "name":  "Low Surrogates",
+        "startCodePoint":  "U+DC00",
+        "endCodePoint":  "U+DFFF",
+        "characterCount":  0,
+        "status":  "empty",
+        "isVisible":  false
+    },
+    {
+        "name":  "Private Use Area",
+        "startCodePoint":  "U+E000",
+        "endCodePoint":  "U+F8FF",
+        "characterCount":  6400,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "CJK Compatibility Ideographs",
+        "startCodePoint":  "U+F900",
+        "endCodePoint":  "U+FAFF",
+        "characterCount":  472,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Alphabetic Presentation Forms",
+        "startCodePoint":  "U+FB00",
+        "endCodePoint":  "U+FB4F",
+        "characterCount":  58,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic Presentation Forms-A",
+        "startCodePoint":  "U+FB50",
+        "endCodePoint":  "U+FDFF",
+        "characterCount":  656,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Variation Selectors",
+        "startCodePoint":  "U+FE00",
+        "endCodePoint":  "U+FE0F",
+        "characterCount":  16,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Vertical Forms",
+        "startCodePoint":  "U+FE10",
+        "endCodePoint":  "U+FE1F",
+        "characterCount":  10,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Combining Half Marks",
+        "startCodePoint":  "U+FE20",
+        "endCodePoint":  "U+FE2F",
+        "characterCount":  16,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Compatibility Forms",
+        "startCodePoint":  "U+FE30",
+        "endCodePoint":  "U+FE4F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Small Form Variants",
+        "startCodePoint":  "U+FE50",
+        "endCodePoint":  "U+FE6F",
+        "characterCount":  26,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic Presentation Forms-B",
+        "startCodePoint":  "U+FE70",
+        "endCodePoint":  "U+FEFF",
+        "characterCount":  141,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Halfwidth and Fullwidth Forms",
+        "startCodePoint":  "U+FF00",
+        "endCodePoint":  "U+FFEF",
+        "characterCount":  225,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Specials",
+        "startCodePoint":  "U+FFF0",
+        "endCodePoint":  "U+FFFF",
+        "characterCount":  5,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Linear B Syllabary",
+        "startCodePoint":  "U+10000",
+        "endCodePoint":  "U+1007F",
+        "characterCount":  88,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Linear B Ideograms",
+        "startCodePoint":  "U+10080",
+        "endCodePoint":  "U+100FF",
+        "characterCount":  123,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Aegean Numbers",
+        "startCodePoint":  "U+10100",
+        "endCodePoint":  "U+1013F",
+        "characterCount":  57,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ancient Greek Numbers",
+        "startCodePoint":  "U+10140",
+        "endCodePoint":  "U+1018F",
+        "characterCount":  79,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ancient Symbols",
+        "startCodePoint":  "U+10190",
+        "endCodePoint":  "U+101CF",
+        "characterCount":  14,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Phaistos Disc",
+        "startCodePoint":  "U+101D0",
+        "endCodePoint":  "U+101FF",
+        "characterCount":  46,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Lycian",
+        "startCodePoint":  "U+10280",
+        "endCodePoint":  "U+1029F",
+        "characterCount":  29,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Carian",
+        "startCodePoint":  "U+102A0",
+        "endCodePoint":  "U+102DF",
+        "characterCount":  49,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Coptic Epact Numbers",
+        "startCodePoint":  "U+102E0",
+        "endCodePoint":  "U+102FF",
+        "characterCount":  28,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old Italic",
+        "startCodePoint":  "U+10300",
+        "endCodePoint":  "U+1032F",
+        "characterCount":  39,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Gothic",
+        "startCodePoint":  "U+10330",
+        "endCodePoint":  "U+1034F",
+        "characterCount":  27,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old Permic",
+        "startCodePoint":  "U+10350",
+        "endCodePoint":  "U+1037F",
+        "characterCount":  43,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ugaritic",
+        "startCodePoint":  "U+10380",
+        "endCodePoint":  "U+1039F",
+        "characterCount":  31,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old Persian",
+        "startCodePoint":  "U+103A0",
+        "endCodePoint":  "U+103DF",
+        "characterCount":  50,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Deseret",
+        "startCodePoint":  "U+10400",
+        "endCodePoint":  "U+1044F",
+        "characterCount":  80,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Shavian",
+        "startCodePoint":  "U+10450",
+        "endCodePoint":  "U+1047F",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Osmanya",
+        "startCodePoint":  "U+10480",
+        "endCodePoint":  "U+104AF",
+        "characterCount":  40,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Osage",
+        "startCodePoint":  "U+104B0",
+        "endCodePoint":  "U+104FF",
+        "characterCount":  72,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Elbasan",
+        "startCodePoint":  "U+10500",
+        "endCodePoint":  "U+1052F",
+        "characterCount":  40,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Caucasian Albanian",
+        "startCodePoint":  "U+10530",
+        "endCodePoint":  "U+1056F",
+        "characterCount":  53,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Vithkuqi",
+        "startCodePoint":  "U+10570",
+        "endCodePoint":  "U+105BF",
+        "characterCount":  70,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Todhri",
+        "startCodePoint":  "U+105C0",
+        "endCodePoint":  "U+105FF",
+        "characterCount":  52,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Linear A",
+        "startCodePoint":  "U+10600",
+        "endCodePoint":  "U+1077F",
+        "characterCount":  341,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended-F",
+        "startCodePoint":  "U+10780",
+        "endCodePoint":  "U+107BF",
+        "characterCount":  57,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cypriot Syllabary",
+        "startCodePoint":  "U+10800",
+        "endCodePoint":  "U+1083F",
+        "characterCount":  55,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Imperial Aramaic",
+        "startCodePoint":  "U+10840",
+        "endCodePoint":  "U+1085F",
+        "characterCount":  31,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Palmyrene",
+        "startCodePoint":  "U+10860",
+        "endCodePoint":  "U+1087F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Nabataean",
+        "startCodePoint":  "U+10880",
+        "endCodePoint":  "U+108AF",
+        "characterCount":  40,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hatran",
+        "startCodePoint":  "U+108E0",
+        "endCodePoint":  "U+108FF",
+        "characterCount":  26,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Phoenician",
+        "startCodePoint":  "U+10900",
+        "endCodePoint":  "U+1091F",
+        "characterCount":  29,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Lydian",
+        "startCodePoint":  "U+10920",
+        "endCodePoint":  "U+1093F",
+        "characterCount":  27,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sidetic",
+        "startCodePoint":  "U+10940",
+        "endCodePoint":  "U+1095F",
+        "characterCount":  26,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Meroitic Hieroglyphs",
+        "startCodePoint":  "U+10980",
+        "endCodePoint":  "U+1099F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Meroitic Cursive",
+        "startCodePoint":  "U+109A0",
+        "endCodePoint":  "U+109FF",
+        "characterCount":  90,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kharoshthi",
+        "startCodePoint":  "U+10A00",
+        "endCodePoint":  "U+10A5F",
+        "characterCount":  68,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old South Arabian",
+        "startCodePoint":  "U+10A60",
+        "endCodePoint":  "U+10A7F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old North Arabian",
+        "startCodePoint":  "U+10A80",
+        "endCodePoint":  "U+10A9F",
+        "characterCount":  32,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Manichaean",
+        "startCodePoint":  "U+10AC0",
+        "endCodePoint":  "U+10AFF",
+        "characterCount":  51,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Avestan",
+        "startCodePoint":  "U+10B00",
+        "endCodePoint":  "U+10B3F",
+        "characterCount":  61,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Inscriptional Parthian",
+        "startCodePoint":  "U+10B40",
+        "endCodePoint":  "U+10B5F",
+        "characterCount":  30,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Inscriptional Pahlavi",
+        "startCodePoint":  "U+10B60",
+        "endCodePoint":  "U+10B7F",
+        "characterCount":  27,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Psalter Pahlavi",
+        "startCodePoint":  "U+10B80",
+        "endCodePoint":  "U+10BAF",
+        "characterCount":  29,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old Turkic",
+        "startCodePoint":  "U+10C00",
+        "endCodePoint":  "U+10C4F",
+        "characterCount":  73,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old Hungarian",
+        "startCodePoint":  "U+10C80",
+        "endCodePoint":  "U+10CFF",
+        "characterCount":  108,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Hanifi Rohingya",
+        "startCodePoint":  "U+10D00",
+        "endCodePoint":  "U+10D3F",
+        "characterCount":  50,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Garay",
+        "startCodePoint":  "U+10D40",
+        "endCodePoint":  "U+10D8F",
+        "characterCount":  69,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Rumi Numeral Symbols",
+        "startCodePoint":  "U+10E60",
+        "endCodePoint":  "U+10E7F",
+        "characterCount":  31,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Yezidi",
+        "startCodePoint":  "U+10E80",
+        "endCodePoint":  "U+10EBF",
+        "characterCount":  47,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic Extended-C",
+        "startCodePoint":  "U+10EC0",
+        "endCodePoint":  "U+10EFF",
+        "characterCount":  21,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old Sogdian",
+        "startCodePoint":  "U+10F00",
+        "endCodePoint":  "U+10F2F",
+        "characterCount":  40,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sogdian",
+        "startCodePoint":  "U+10F30",
+        "endCodePoint":  "U+10F6F",
+        "characterCount":  42,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Old Uyghur",
+        "startCodePoint":  "U+10F70",
+        "endCodePoint":  "U+10FAF",
+        "characterCount":  26,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Chorasmian",
+        "startCodePoint":  "U+10FB0",
+        "endCodePoint":  "U+10FDF",
+        "characterCount":  28,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Elymaic",
+        "startCodePoint":  "U+10FE0",
+        "endCodePoint":  "U+10FFF",
+        "characterCount":  23,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Brahmi",
+        "startCodePoint":  "U+11000",
+        "endCodePoint":  "U+1107F",
+        "characterCount":  115,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kaithi",
+        "startCodePoint":  "U+11080",
+        "endCodePoint":  "U+110CF",
+        "characterCount":  68,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sora Sompeng",
+        "startCodePoint":  "U+110D0",
+        "endCodePoint":  "U+110FF",
+        "characterCount":  35,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Chakma",
+        "startCodePoint":  "U+11100",
+        "endCodePoint":  "U+1114F",
+        "characterCount":  71,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mahajani",
+        "startCodePoint":  "U+11150",
+        "endCodePoint":  "U+1117F",
+        "characterCount":  39,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sharada",
+        "startCodePoint":  "U+11180",
+        "endCodePoint":  "U+111DF",
+        "characterCount":  96,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sinhala Archaic Numbers",
+        "startCodePoint":  "U+111E0",
+        "endCodePoint":  "U+111FF",
+        "characterCount":  20,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Khojki",
+        "startCodePoint":  "U+11200",
+        "endCodePoint":  "U+1124F",
+        "characterCount":  65,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Multani",
+        "startCodePoint":  "U+11280",
+        "endCodePoint":  "U+112AF",
+        "characterCount":  38,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Khudawadi",
+        "startCodePoint":  "U+112B0",
+        "endCodePoint":  "U+112FF",
+        "characterCount":  69,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Grantha",
+        "startCodePoint":  "U+11300",
+        "endCodePoint":  "U+1137F",
+        "characterCount":  86,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tulu-Tigalari",
+        "startCodePoint":  "U+11380",
+        "endCodePoint":  "U+113FF",
+        "characterCount":  80,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Newa",
+        "startCodePoint":  "U+11400",
+        "endCodePoint":  "U+1147F",
+        "characterCount":  97,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tirhuta",
+        "startCodePoint":  "U+11480",
+        "endCodePoint":  "U+114DF",
+        "characterCount":  82,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Siddham",
+        "startCodePoint":  "U+11580",
+        "endCodePoint":  "U+115FF",
+        "characterCount":  92,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Modi",
+        "startCodePoint":  "U+11600",
+        "endCodePoint":  "U+1165F",
+        "characterCount":  79,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mongolian Supplement",
+        "startCodePoint":  "U+11660",
+        "endCodePoint":  "U+1167F",
+        "characterCount":  13,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Takri",
+        "startCodePoint":  "U+11680",
+        "endCodePoint":  "U+116CF",
+        "characterCount":  68,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Myanmar Extended-C",
+        "startCodePoint":  "U+116D0",
+        "endCodePoint":  "U+116FF",
+        "characterCount":  20,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ahom",
+        "startCodePoint":  "U+11700",
+        "endCodePoint":  "U+1174F",
+        "characterCount":  65,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Dogra",
+        "startCodePoint":  "U+11800",
+        "endCodePoint":  "U+1184F",
+        "characterCount":  60,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Warang Citi",
+        "startCodePoint":  "U+118A0",
+        "endCodePoint":  "U+118FF",
+        "characterCount":  84,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Dives Akuru",
+        "startCodePoint":  "U+11900",
+        "endCodePoint":  "U+1195F",
+        "characterCount":  72,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Nandinagari",
+        "startCodePoint":  "U+119A0",
+        "endCodePoint":  "U+119FF",
+        "characterCount":  65,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Zanabazar Square",
+        "startCodePoint":  "U+11A00",
+        "endCodePoint":  "U+11A4F",
+        "characterCount":  72,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Soyombo",
+        "startCodePoint":  "U+11A50",
+        "endCodePoint":  "U+11AAF",
+        "characterCount":  83,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Unified Canadian Aboriginal Syllabics Extended-A",
+        "startCodePoint":  "U+11AB0",
+        "endCodePoint":  "U+11ABF",
+        "characterCount":  16,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Pau Cin Hau",
+        "startCodePoint":  "U+11AC0",
+        "endCodePoint":  "U+11AFF",
+        "characterCount":  57,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Devanagari Extended-A",
+        "startCodePoint":  "U+11B00",
+        "endCodePoint":  "U+11B5F",
+        "characterCount":  10,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sharada Supplement",
+        "startCodePoint":  "U+11B60",
+        "endCodePoint":  "U+11B7F",
+        "characterCount":  8,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sunuwar",
+        "startCodePoint":  "U+11BC0",
+        "endCodePoint":  "U+11BFF",
+        "characterCount":  44,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Bhaiksuki",
+        "startCodePoint":  "U+11C00",
+        "endCodePoint":  "U+11C6F",
+        "characterCount":  97,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Marchen",
+        "startCodePoint":  "U+11C70",
+        "endCodePoint":  "U+11CBF",
+        "characterCount":  68,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Masaram Gondi",
+        "startCodePoint":  "U+11D00",
+        "endCodePoint":  "U+11D5F",
+        "characterCount":  75,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Gunjala Gondi",
+        "startCodePoint":  "U+11D60",
+        "endCodePoint":  "U+11DAF",
+        "characterCount":  63,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tolong Siki",
+        "startCodePoint":  "U+11DB0",
+        "endCodePoint":  "U+11DEF",
+        "characterCount":  54,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Makasar",
+        "startCodePoint":  "U+11EE0",
+        "endCodePoint":  "U+11EFF",
+        "characterCount":  25,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kawi",
+        "startCodePoint":  "U+11F00",
+        "endCodePoint":  "U+11F5F",
+        "characterCount":  87,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Lisu Supplement",
+        "startCodePoint":  "U+11FB0",
+        "endCodePoint":  "U+11FBF",
+        "characterCount":  1,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tamil Supplement",
+        "startCodePoint":  "U+11FC0",
+        "endCodePoint":  "U+11FFF",
+        "characterCount":  51,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cuneiform",
+        "startCodePoint":  "U+12000",
+        "endCodePoint":  "U+123FF",
+        "characterCount":  922,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cuneiform Numbers and Punctuation",
+        "startCodePoint":  "U+12400",
+        "endCodePoint":  "U+1247F",
+        "characterCount":  116,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Early Dynastic Cuneiform",
+        "startCodePoint":  "U+12480",
+        "endCodePoint":  "U+1254F",
+        "characterCount":  196,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cypro-Minoan",
+        "startCodePoint":  "U+12F90",
+        "endCodePoint":  "U+12FFF",
+        "characterCount":  99,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Egyptian Hieroglyphs",
+        "startCodePoint":  "U+13000",
+        "endCodePoint":  "U+1342F",
+        "characterCount":  1072,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Egyptian Hieroglyph Format Controls",
+        "startCodePoint":  "U+13430",
+        "endCodePoint":  "U+1345F",
+        "characterCount":  38,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Egyptian Hieroglyphs Extended-A",
+        "startCodePoint":  "U+13460",
+        "endCodePoint":  "U+143FF",
+        "characterCount":  3995,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Anatolian Hieroglyphs",
+        "startCodePoint":  "U+14400",
+        "endCodePoint":  "U+1467F",
+        "characterCount":  583,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Gurung Khema",
+        "startCodePoint":  "U+16100",
+        "endCodePoint":  "U+1613F",
+        "characterCount":  58,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Bamum Supplement",
+        "startCodePoint":  "U+16800",
+        "endCodePoint":  "U+16A3F",
+        "characterCount":  569,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mro",
+        "startCodePoint":  "U+16A40",
+        "endCodePoint":  "U+16A6F",
+        "characterCount":  43,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tangsa",
+        "startCodePoint":  "U+16A70",
+        "endCodePoint":  "U+16ACF",
+        "characterCount":  89,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Bassa Vah",
+        "startCodePoint":  "U+16AD0",
+        "endCodePoint":  "U+16AFF",
+        "characterCount":  36,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Pahawh Hmong",
+        "startCodePoint":  "U+16B00",
+        "endCodePoint":  "U+16B8F",
+        "characterCount":  127,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kirat Rai",
+        "startCodePoint":  "U+16D40",
+        "endCodePoint":  "U+16D7F",
+        "characterCount":  58,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Medefaidrin",
+        "startCodePoint":  "U+16E40",
+        "endCodePoint":  "U+16E9F",
+        "characterCount":  91,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Beria Erfe",
+        "startCodePoint":  "U+16EA0",
+        "endCodePoint":  "U+16EDF",
+        "characterCount":  50,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miao",
+        "startCodePoint":  "U+16F00",
+        "endCodePoint":  "U+16F9F",
+        "characterCount":  149,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ideographic Symbols and Punctuation",
+        "startCodePoint":  "U+16FE0",
+        "endCodePoint":  "U+16FFF",
+        "characterCount":  12,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tangut",
+        "startCodePoint":  "U+17000",
+        "endCodePoint":  "U+187FF",
+        "characterCount":  6144,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Tangut Components",
+        "startCodePoint":  "U+18800",
+        "endCodePoint":  "U+18AFF",
+        "characterCount":  768,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Khitan Small Script",
+        "startCodePoint":  "U+18B00",
+        "endCodePoint":  "U+18CFF",
+        "characterCount":  471,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tangut Supplement",
+        "startCodePoint":  "U+18D00",
+        "endCodePoint":  "U+18D7F",
+        "characterCount":  31,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tangut Components Supplement",
+        "startCodePoint":  "U+18D80",
+        "endCodePoint":  "U+18DFF",
+        "characterCount":  115,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kana Extended-B",
+        "startCodePoint":  "U+1AFF0",
+        "endCodePoint":  "U+1AFFF",
+        "characterCount":  13,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kana Supplement",
+        "startCodePoint":  "U+1B000",
+        "endCodePoint":  "U+1B0FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kana Extended-A",
+        "startCodePoint":  "U+1B100",
+        "endCodePoint":  "U+1B12F",
+        "characterCount":  35,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Small Kana Extension",
+        "startCodePoint":  "U+1B130",
+        "endCodePoint":  "U+1B16F",
+        "characterCount":  9,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Nushu",
+        "startCodePoint":  "U+1B170",
+        "endCodePoint":  "U+1B2FF",
+        "characterCount":  396,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Duployan",
+        "startCodePoint":  "U+1BC00",
+        "endCodePoint":  "U+1BC9F",
+        "characterCount":  143,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Shorthand Format Controls",
+        "startCodePoint":  "U+1BCA0",
+        "endCodePoint":  "U+1BCAF",
+        "characterCount":  4,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Symbols for Legacy Computing Supplement",
+        "startCodePoint":  "U+1CC00",
+        "endCodePoint":  "U+1CEBF",
+        "characterCount":  695,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miscellaneous Symbols Supplement",
+        "startCodePoint":  "U+1CEC0",
+        "endCodePoint":  "U+1CEFF",
+        "characterCount":  34,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Znamenny Musical Notation",
+        "startCodePoint":  "U+1CF00",
+        "endCodePoint":  "U+1CFCF",
+        "characterCount":  185,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Byzantine Musical Symbols",
+        "startCodePoint":  "U+1D000",
+        "endCodePoint":  "U+1D0FF",
+        "characterCount":  246,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Musical Symbols",
+        "startCodePoint":  "U+1D100",
+        "endCodePoint":  "U+1D1FF",
+        "characterCount":  233,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ancient Greek Musical Notation",
+        "startCodePoint":  "U+1D200",
+        "endCodePoint":  "U+1D24F",
+        "characterCount":  70,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Kaktovik Numerals",
+        "startCodePoint":  "U+1D2C0",
+        "endCodePoint":  "U+1D2DF",
+        "characterCount":  20,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mayan Numerals",
+        "startCodePoint":  "U+1D2E0",
+        "endCodePoint":  "U+1D2FF",
+        "characterCount":  20,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tai Xuan Jing Symbols",
+        "startCodePoint":  "U+1D300",
+        "endCodePoint":  "U+1D35F",
+        "characterCount":  87,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Counting Rod Numerals",
+        "startCodePoint":  "U+1D360",
+        "endCodePoint":  "U+1D37F",
+        "characterCount":  25,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mathematical Alphanumeric Symbols",
+        "startCodePoint":  "U+1D400",
+        "endCodePoint":  "U+1D7FF",
+        "characterCount":  996,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Sutton SignWriting",
+        "startCodePoint":  "U+1D800",
+        "endCodePoint":  "U+1DAAF",
+        "characterCount":  672,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Latin Extended-G",
+        "startCodePoint":  "U+1DF00",
+        "endCodePoint":  "U+1DFFF",
+        "characterCount":  37,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Glagolitic Supplement",
+        "startCodePoint":  "U+1E000",
+        "endCodePoint":  "U+1E02F",
+        "characterCount":  38,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Cyrillic Extended-D",
+        "startCodePoint":  "U+1E030",
+        "endCodePoint":  "U+1E08F",
+        "characterCount":  63,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Nyiakeng Puachue Hmong",
+        "startCodePoint":  "U+1E100",
+        "endCodePoint":  "U+1E14F",
+        "characterCount":  71,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Toto",
+        "startCodePoint":  "U+1E290",
+        "endCodePoint":  "U+1E2BF",
+        "characterCount":  31,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Wancho",
+        "startCodePoint":  "U+1E2C0",
+        "endCodePoint":  "U+1E2FF",
+        "characterCount":  59,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Nag Mundari",
+        "startCodePoint":  "U+1E4D0",
+        "endCodePoint":  "U+1E4FF",
+        "characterCount":  42,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ol Onal",
+        "startCodePoint":  "U+1E5D0",
+        "endCodePoint":  "U+1E5FF",
+        "characterCount":  44,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Tai Yo",
+        "startCodePoint":  "U+1E6C0",
+        "endCodePoint":  "U+1E6FF",
+        "characterCount":  55,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ethiopic Extended-B",
+        "startCodePoint":  "U+1E7E0",
+        "endCodePoint":  "U+1E7FF",
+        "characterCount":  28,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mende Kikakui",
+        "startCodePoint":  "U+1E800",
+        "endCodePoint":  "U+1E8DF",
+        "characterCount":  213,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Adlam",
+        "startCodePoint":  "U+1E900",
+        "endCodePoint":  "U+1E95F",
+        "characterCount":  88,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Indic Siyaq Numbers",
+        "startCodePoint":  "U+1EC70",
+        "endCodePoint":  "U+1ECBF",
+        "characterCount":  68,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ottoman Siyaq Numbers",
+        "startCodePoint":  "U+1ED00",
+        "endCodePoint":  "U+1ED4F",
+        "characterCount":  61,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Arabic Mathematical Alphabetic Symbols",
+        "startCodePoint":  "U+1EE00",
+        "endCodePoint":  "U+1EEFF",
+        "characterCount":  143,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Mahjong Tiles",
+        "startCodePoint":  "U+1F000",
+        "endCodePoint":  "U+1F02F",
+        "characterCount":  44,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Domino Tiles",
+        "startCodePoint":  "U+1F030",
+        "endCodePoint":  "U+1F09F",
+        "characterCount":  100,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Playing Cards",
+        "startCodePoint":  "U+1F0A0",
+        "endCodePoint":  "U+1F0FF",
+        "characterCount":  82,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Enclosed Alphanumeric Supplement",
+        "startCodePoint":  "U+1F100",
+        "endCodePoint":  "U+1F1FF",
+        "characterCount":  200,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Enclosed Ideographic Supplement",
+        "startCodePoint":  "U+1F200",
+        "endCodePoint":  "U+1F2FF",
+        "characterCount":  64,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Miscellaneous Symbols and Pictographs",
+        "startCodePoint":  "U+1F300",
+        "endCodePoint":  "U+1F5FF",
+        "characterCount":  768,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Emoticons",
+        "startCodePoint":  "U+1F600",
+        "endCodePoint":  "U+1F64F",
+        "characterCount":  80,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Ornamental Dingbats",
+        "startCodePoint":  "U+1F650",
+        "endCodePoint":  "U+1F67F",
+        "characterCount":  48,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Transport and Map Symbols",
+        "startCodePoint":  "U+1F680",
+        "endCodePoint":  "U+1F6FF",
+        "characterCount":  119,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Alchemical Symbols",
+        "startCodePoint":  "U+1F700",
+        "endCodePoint":  "U+1F77F",
+        "characterCount":  128,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Geometric Shapes Extended",
+        "startCodePoint":  "U+1F780",
+        "endCodePoint":  "U+1F7FF",
+        "characterCount":  103,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Supplemental Arrows-C",
+        "startCodePoint":  "U+1F800",
+        "endCodePoint":  "U+1F8FF",
+        "characterCount":  171,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Supplemental Symbols and Pictographs",
+        "startCodePoint":  "U+1F900",
+        "endCodePoint":  "U+1F9FF",
+        "characterCount":  256,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Chess Symbols",
+        "startCodePoint":  "U+1FA00",
+        "endCodePoint":  "U+1FA6F",
+        "characterCount":  102,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Symbols and Pictographs Extended-A",
+        "startCodePoint":  "U+1FA70",
+        "endCodePoint":  "U+1FAFF",
+        "characterCount":  120,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Symbols for Legacy Computing",
+        "startCodePoint":  "U+1FB00",
+        "endCodePoint":  "U+1FBFF",
+        "characterCount":  250,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension B",
+        "startCodePoint":  "U+20000",
+        "endCodePoint":  "U+2A6DF",
+        "characterCount":  42720,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension C",
+        "startCodePoint":  "U+2A700",
+        "endCodePoint":  "U+2B73F",
+        "characterCount":  4160,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension D",
+        "startCodePoint":  "U+2B740",
+        "endCodePoint":  "U+2B81F",
+        "characterCount":  222,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension E",
+        "startCodePoint":  "U+2B820",
+        "endCodePoint":  "U+2CEAF",
+        "characterCount":  5774,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension F",
+        "startCodePoint":  "U+2CEB0",
+        "endCodePoint":  "U+2EBEF",
+        "characterCount":  7473,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension I",
+        "startCodePoint":  "U+2EBF0",
+        "endCodePoint":  "U+2EE5F",
+        "characterCount":  622,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Compatibility Ideographs Supplement",
+        "startCodePoint":  "U+2F800",
+        "endCodePoint":  "U+2FA1F",
+        "characterCount":  542,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension G",
+        "startCodePoint":  "U+30000",
+        "endCodePoint":  "U+3134F",
+        "characterCount":  4939,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension H",
+        "startCodePoint":  "U+31350",
+        "endCodePoint":  "U+323AF",
+        "characterCount":  4192,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "CJK Unified Ideographs Extension J",
+        "startCodePoint":  "U+323B0",
+        "endCodePoint":  "U+3347F",
+        "characterCount":  4298,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Tags",
+        "startCodePoint":  "U+E0000",
+        "endCodePoint":  "U+E007F",
+        "characterCount":  97,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Variation Selectors Supplement",
+        "startCodePoint":  "U+E0100",
+        "endCodePoint":  "U+E01EF",
+        "characterCount":  240,
+        "status":  "active",
+        "isVisible":  true
+    },
+    {
+        "name":  "Supplementary Private Use Area-A",
+        "startCodePoint":  "U+F0000",
+        "endCodePoint":  "U+FFFFF",
+        "characterCount":  65534,
+        "status":  "large",
+        "isVisible":  false
+    },
+    {
+        "name":  "Supplementary Private Use Area-B",
+        "startCodePoint":  "U+100000",
+        "endCodePoint":  "U+10FFFF",
+        "characterCount":  65534,
+        "status":  "large",
+        "isVisible":  false
+    }
+]
